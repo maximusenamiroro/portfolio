@@ -6,6 +6,10 @@ body {
   color: #272829;
 }
 
+.mylink{
+   color:black;
+}
+
 a {
   color: #149ddd;
   text-decoration: none;
